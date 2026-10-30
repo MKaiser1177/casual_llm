@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+my_env/
+.venv/
+
+# Node
+static/node_modules/
+.npm
